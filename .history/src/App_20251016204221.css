@@ -1,0 +1,7 @@
+body{
+  background-color: white;
+}
+.color-picker-container{
+  display: flex;
+  margin: 100px;
+}

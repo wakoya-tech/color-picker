@@ -1,0 +1,9 @@
+body{
+  background-color: white;
+}
+.color-picker-container{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  margin: 100px;
+}
