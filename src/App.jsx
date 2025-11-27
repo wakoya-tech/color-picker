@@ -7,5 +7,4 @@ return(<>
 <ColorPicker/>
 </>)
 }
-
 export default App
